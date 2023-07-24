@@ -23,7 +23,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 ¡Quizá no te quede idénticos o quizás te quede mucho mejor que esta demostración🤩, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../images/Captura de pantalla 2023-07-24 a la(s) 12.38.28 p.m.png")
+![imagen]("./../images/Captura de pantalla 2023-07-24 a la(s) 12.38.28 p.m")
 
 ## 3.¿Qué construirás?
 
