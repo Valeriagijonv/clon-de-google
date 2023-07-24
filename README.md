@@ -49,5 +49,8 @@ Usa esta lista para saber los requisitos mínimos del proyecto:
 ## GENERAL
 Realizarse de manera individual
 
-## Interfaz de usuario
+### UI
+- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+- [ ] Aplicar tipos de selectores en CSS.
+- [ ] Sección `Header`, `main`, `footer`
 
