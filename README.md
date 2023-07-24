@@ -9,7 +9,7 @@ Pueces poner en práctica tus habilidades revisando y utilizando el código a co
 * [2.Demo](https://github.com/Valeriagijonv/clon-de-google/blob/main/README.md#1intro)
 * [3.¿Qué construirás?](https://github.com/Valeriagijonv/clon-de-google/blob/main/README.md#3qu%C3%A9-construir%C3%A1s)
 * [4.Objetivos de aprendizaje](https://github.com/Valeriagijonv/clon-de-google/blob/main/README.md#3qu%C3%A9-construir%C3%A1s)
-* [5.Requisitos](https://github.com/Valeriagijonv/clon-de-google/edit/main/README.md#5requisitos)
+* [5.Requisitos](https://github.com/Valeriagijonv/clon-de-google/blob/main/README.md#3qu%C3%A9-construir%C3%A1s)
 
 ****
 ## 1.Intro
